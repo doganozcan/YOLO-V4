@@ -337,8 +337,3 @@ detect_video.py:
   --crop: crop detections and save as new images
     (default: False)
 ```
-
-### References  
-
-   Huge shoutout goes to hunglc007 for creating the backbone of this repository:
-  * [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
