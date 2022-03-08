@@ -1,6 +1,6 @@
 # YOLO-V4
 Object detection in this repository is done using ready weights. If you want to build your own weight, take a look at this 
-# <! buraya yolo-cloud repositorymi paylaştığım zaman linkini koyacağım>
+## https://github.com/doganozcan/yoloV4-GoogleColab
 
 ### Object Detection
 <p align="center"><img src="https://user-images.githubusercontent.com/77979910/157029804-76e5e460-da5c-494d-b14f-75d4e90b8d83.gif" width="550"\></p>
